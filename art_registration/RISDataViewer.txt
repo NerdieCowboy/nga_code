@@ -1,0 +1,13 @@
+xnir_a0 = 786.4586
+xnir_a1 = 2.9737
+xnir_a2 = -0.29593
+xnir_a3 = 0.22685
+vnir_a0 = 351.4955
+vnir_a1 = 2.4392
+vnir_a2 = 0.4354
+vnir_a3 = -0.10271
+nir_a0 = 0
+nir_a1 = 1
+nir_a2 = 0
+nir_a3 = 0
+deltan = 1024

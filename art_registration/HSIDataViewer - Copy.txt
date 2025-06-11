@@ -1,0 +1,13 @@
+xnir_a0 = 700
+xnir_a1 = 1.5
+xnir_a2 = 2
+xnir_a3 = 1
+vnir_a0 = 0
+vnir_a1 = 1
+vnir_a2 = 0
+vnir_a3 = 0
+nir_a0 = 0
+nir_a1 = 1
+nir_a2 = 0
+nir_a3 = 0
+deltan = 1024.000000
